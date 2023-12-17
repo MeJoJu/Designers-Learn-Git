@@ -3,5 +3,9 @@ a.txt
 bbb
 test
 grace
+<<<<<<< HEAD
 test1 feifei
 test2 feifei2
+=======
+123 FEIFEI
+>>>>>>> 870e806a0848702ae4be2f4fbbb1a76fa1134a82
